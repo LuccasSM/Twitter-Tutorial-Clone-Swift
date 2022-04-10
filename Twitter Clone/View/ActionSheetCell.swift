@@ -1,9 +1,8 @@
 //
 //  ActionSheetCell.swift
-//  TwitterTutorial
+//  Twitter Clone
 //
-//  Created by Stephen Dowless on 2/8/20.
-//  Copyright © 2020 Stephan Dowless. All rights reserved.
+//  Created by Luccas Santana Marinho on 20/03/22.
 //
 
 import UIKit

@@ -1,9 +1,8 @@
 //
-//  CaptionTextView.swift
-//  TwitterTutorial
+//  InputTextView.swift
+//  Twitter Clone
 //
-//  Created by Stephen Dowless on 1/28/20.
-//  Copyright © 2020 Stephan Dowless. All rights reserved.
+//  Created by Luccas Santana Marinho on 20/03/22.
 //
 
 import UIKit
